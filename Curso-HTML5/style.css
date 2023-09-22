@@ -17,3 +17,8 @@ body{
     border: 3px solid black;
     margin: 10px;
 }
+ 
+.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
