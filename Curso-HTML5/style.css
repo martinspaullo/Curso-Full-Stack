@@ -1,0 +1,19 @@
+body{
+    background: #ccc;
+}
+
+#h1{
+    color: orange;
+}
+
+.img {
+    height: 200px;
+    width: 500px;
+}
+
+.post{
+    background: white;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+}
