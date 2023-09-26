@@ -19,5 +19,5 @@ const pessoa3 = {
 	idade: 13,
 };
 
-console.log(calculaIdade.call(pessoa3, 40));
+console.log(calculaIdade.call(pessoa3, 20));
 console.log(calculaIdade.apply(pessoa2, [24]));
