@@ -1,10 +1,14 @@
-var firstName = "João";
-var lastName = "Souza";
+function numeroPositivo(num){
+    let resultado;
+    if (num > 0){
+        resultado = "Número Positivo";
+    } else{
+        resultado = "Número Negativo";
+    }
 
-if  (firstName === "João") {
-    var firstName = "Pedro";
-    let lastName = "Silva";
-    console.log (firstName, lastName)
+    return resultado;
+
 }
 
-console.log (firstName, lastName);
+numeroPositivo(2);
+console.log(resultado);
